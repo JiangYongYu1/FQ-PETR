@@ -1,14 +1,6 @@
 # FQ-PETR: Fully Quantized Position Embedding Transformation for Multi-View 3D Object Detection
 
-<p align="center">
-    <a href="https://aaai.org/aaai-26/">🧠 AAAI 2026</a> • 
-    <a href="https://arxiv.org/abs/2502.15488">📄 Paper (arXiv)</a> • 
-    <a href="#citation">📚 Citation</a>
-</p>
 
-<p align="center">
-    <img src="docs/assets/fqpetr_banner.png" width="70%">
-</p>
 
 ---
 
