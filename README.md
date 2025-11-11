@@ -31,3 +31,7 @@ It features:
 - 🔸 **Quantization-friendly position embedding transformation**  
 - 🔸 **End-to-end INT8 pipeline** preserving detection accuracy  
 - 🔸 **DULUT design** that abstracts nonlinear LUT allocation as a differentiable function and replaces it with a linear LUT, requiring **no dedicated hardware support** 
+
+
+## 📈 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=JiangYongYu1/FQ-PETR&type=Date)](https://star-history.com/#JiangYongYu1/FQ-PETR&Date)
